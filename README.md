@@ -9,7 +9,7 @@ This repo contain list of questions/exercises that need to be completed in order
 Based on your position and skill please select one of the below and complete it
 
 ### JAVA
-* [Spring boot - Google books API](GoogleBooksConcept.md)
+* [Spring boot - Google books API](JavaSpringGoogleBooks.md)
 ### Dotnet
 
 ### Angular
