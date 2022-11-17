@@ -1,17 +1,37 @@
 # Skill checker
-
+![GitHub contributors](https://img.shields.io/github/contributors/salahawad/skillchecker?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/salahawad/skillchecker?style=for-the-badge)
 ## About The Project
 This repo contain list of questions/exercises that need to be completed in order to have skill assessment done
 
 
 ## Skills Assessment
----
+***
 Based on your position and skill please select one of the below and complete it
+<br/>
+<code>
+Prerequisites:
+* GIT knowledge
+* IDE (VSCode - MS Visual studio - Eclipse - WebStorm - etc)
+</code>
+<br/>
 
+### How to present your solution
+* Create a private/public repository on github
+* Develope the solution on your local machine
+* Submit the code
+* (optional) you can use your project readme file to describe your logic
 ### JAVA
+<code>
+Local machine prerequisites:
 
-#### Exercises
-* [Spring boot - Google books API](JavaSpringGoogleBooks.md)
+* Java 8 - 11 or OpenJDK 8 - 11
+</code>
+<br/>
+
+#### Assignments
+* Senior Java Developer
+  * [Spring boot - Google books API](JavaSpringGoogleBooks.md)
 ### Dotnet
 <br/>
 
