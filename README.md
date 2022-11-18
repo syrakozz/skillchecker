@@ -29,7 +29,7 @@ Local machine prerequisites:
 </code>
 <br/>
 
-#### Assignments
+### Assignments
 * Senior Java Developer
   * [Spring boot - Google books API](JavaSpringGoogleBooks.md)
 ### Dotnet
@@ -42,6 +42,13 @@ Local machine prerequisites:
 <br/>
 
 
+<br/>
+
+## Potential curriculum to enhance skills
+***
+* [Java Fullstack circular](JavaFullstackCircular.md)
+
+<br/>
 <br/>
 
 # Skills Levels

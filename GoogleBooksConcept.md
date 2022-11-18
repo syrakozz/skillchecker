@@ -1,3 +1,4 @@
+##  <u> *[Home](README.md)* </u>
 ## Books concepts
 
 Google Books is built upon four basic concepts:
@@ -53,11 +54,11 @@ Example bookshelves:
 
 You can invoke five different methods for collections and resources in the Books API, as described in the following table.
 
-| Operation | Description | REST HTTP mappings |
-| --- | --- | --- |
-| list | Lists a specified subset of resources within a collection. | `GET` on a collection URI. |
-| insert | Inserts a new resource into a collection (creating a new resource). | `POST` on a collection URI, where you pass in data for a new resource. |
-| get | Gets a specific resource. | `GET` on resource URI. |
-| update | Updates a specific resource. | `PUT` on resource URI, where you pass in data for the updated resource. |
-| delete | Deletes a specific resource. | `DELETE` on resource URI, where you pass in data for the resource to be deleted. |
+| Operation | Description                                                         | REST HTTP mappings                                                               |
+| --------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| list      | Lists a specified subset of resources within a collection.          | `GET` on a collection URI.                                                       |
+| insert    | Inserts a new resource into a collection (creating a new resource). | `POST` on a collection URI, where you pass in data for a new resource.           |
+| get       | Gets a specific resource.                                           | `GET` on resource URI.                                                           |
+| update    | Updates a specific resource.                                        | `PUT` on resource URI, where you pass in data for the updated resource.          |
+| delete    | Deletes a specific resource.                                        | `DELETE` on resource URI, where you pass in data for the resource to be deleted. |
 
