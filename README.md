@@ -114,3 +114,7 @@ This competency area includes using Spring Boot’s auto-configuration, packagin
 
 * Add internationalization to a Spring Boot application​ - Enabling a Spring Boot application to adapt to different languages.
  </details>
+
+ # Interesting Concepts
+
+* [Code Smells](/CodeSmells.md)
