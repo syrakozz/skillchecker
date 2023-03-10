@@ -32,13 +32,10 @@ Local machine prerequisites:
 ### Assignments
 * Senior Java Developer
   * [Spring boot - Google books API](JavaSpringGoogleBooks.md)
-### Dotnet
-<br/>
 
-### Angular
-<br/>
-
-### Javascript
+### Flutter
+* Senior Flutter UI Developer
+  * [File Manager assessment](FlutterEx1.md)
 <br/>
 
 
