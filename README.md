@@ -51,14 +51,14 @@ Local machine prerequisites:
 # Skills Levels
 ### Spring Boot
 
-<details open>
+<details >
 <summary> <b> Beginner </b></summary>
 
 Spring Boot is an extension of the Spring Framework that helps developers build simple and web-based applications quickly, with less code.
 
 This competency area includes configuring a Spring MVC application, Basics of the Spring framework, working with REST APIs, writing a unit test for a simple application, among others. 
 
-**Key Competencies:**
+## Key Competencies:
 
 * Configure a Spring MVC application - ​Configuring a Spring MVC application using Spring Boot.
 * Basics of the Spring framework - Using dependency injection, inversion of control, and application context.
@@ -70,7 +70,7 @@ This competency area includes configuring a Spring MVC application, Basics of th
 * Write a unit test for a simple application​ - Enabling testing in a Spring Boot project and writing unit and integration tests.
  </details>
 
-<details open>
+<details >
 <summary> <b> Intermediate </b></summary>
  
 
@@ -78,7 +78,7 @@ Spring Boot is an extension of the Spring Framework that helps developers build 
 
 This competency area includes using Spring Boot’s auto-configuration, packaging, and deploying a simple application, implementing exception handling, among others. 
 
-**Key Competencies:**
+## Key Competencies:
 
 * Access data from a database using Spring Boot ​- This competency area includes using Spring Boot’s auto-configuration to access data from an H2 database within a simple application.
 
@@ -92,12 +92,12 @@ This competency area includes using Spring Boot’s auto-configuration, packagin
  </details>
 
 
-<details open>
+<details >
 <summary> <b> Expert </b></summary>
 
  Spring Boot is an extension of the Spring Framework that helps developers build simple and web-based applications quickly, with less code.
 
-**Key Competencies:**
+## Key Competencies:
 
 * Build GraphQL server - ​Using Spring Boot to build a GraphQL server to expose APIs for retrieving, creating, updating, and deleting data.
 
