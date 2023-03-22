@@ -1,4 +1,4 @@
-# Job Title: Senior React Developer
+# Senior React Developer
 
 Job Description:
 
