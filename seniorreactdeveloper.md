@@ -93,16 +93,3 @@ Requirements:
 
 -   Experience writing and maintaining UI functional tests using testing
     frameworks such as Cypress or Selenium.
-
-Benefits:
-
--   Competitive salary and benefits package.
-
--   Opportunity to work on exciting projects with cutting-edge
-    technologies.
-
--   Collaborative and dynamic work environment.
-
--   Career growth and development opportunities.
-
--   Work-life balance with flexible schedules and remote work options.
