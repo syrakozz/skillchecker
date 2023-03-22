@@ -46,6 +46,5 @@ We are seeking an experienced Senior Java Developer with a strong Spring Boot an
 * Bachelor's degree in Computer Science, Engineering, or related field
 * Master's degree in Computer Science, Engineering, or related field is a plus
 * Relevant certifications (e.g., AWS Certified Solutions Architect, AWS Certified Developer, etc.) are a plus
-* 
 
 
