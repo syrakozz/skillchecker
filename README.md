@@ -41,6 +41,15 @@ Local machine prerequisites:
 
 <br/>
 
+## Job Descriptions
+
+### [Senior Java Developer](seniorjavadeveloper.md)
+### [Senior JS Backend Developer (Expressjs)](seniorjsbackend.md)
+### [Senior Flutter UI Developer](seniorflutterui.md)
+### [Senior React Native Developer](seniorreactnative.md)
+
+
+
 ## Potential curriculum to enhance skills
 ***
 * [Java Fullstack circular](JavaFullstackCircular.md)
