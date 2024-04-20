@@ -1,6 +1,6 @@
 ##  <u> *[Home](README.md)* </u>
 
-# React js/Next js  Project Brief : file manager application
+# React js/Next js  Project Brief : Note manager application
 
 Create a  CRUD (Create Read Update Delete) in React Js/Next js  to manage note 
 
